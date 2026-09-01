@@ -1,13 +1,17 @@
 Hi, I'm Tricia!
 
-I'm a Computer Science + Mathematical Sciences student at Washington University in St. Louis.
+I'm a Computer Science + Mathematical Sciences student at Washington University in St. Louis!
 
-I'm currently an aspiring software engineer, doing a lot of projects in web development and design and game development!
+I'm currently an aspiring software engineer doing a lot of projects in web development and design and game development!
 
-<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/a826d9ac-6aea-4971-bb02-672f54615abc" />
+### Some Languages I Know: 
+Java • Python • C++ • JavaScript • SQL • AVL Assembly • C • C# • PHP
 
-Languages: Java, Python, C++, JavaScript, SQL, AVL Assembly, C, C#, CSS, HTML, React, PHP
+### Other CS Tech:
+HTML • CSS • React • Git • GitHub • VS Code
 
+### Math:
+Linear Algebra • Number Theory and Cryptography • Financial Mathematics • Real Number Analysis
 <!--### Some of my projects
 
 🎮 **Game Development** — Roblox/Lua projects and game mechanics
